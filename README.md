@@ -1,3 +1,4 @@
+#Repo Link
 <p align="center">
   <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
 </p>
@@ -17,6 +18,8 @@
 <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-blue.svg?style=flat-round" alt="PRs" /> </a>
 </p>
 
+# Deploy link 
+[Deploy Now](https://heroku.com/deploy?template=https://github.com/Shankssama/EmikoRobot)
 ### TUTORIAL
 
 - First fork this repository.
